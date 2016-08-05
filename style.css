@@ -9,7 +9,7 @@ header {
   position: fixed;
   display: block;
   padding: 10px;
-  background-color: red;
+  background-color: white;
   width: 100%;
 }
 
@@ -68,27 +68,6 @@ margin-top:40px;
 margin-top:30px;
   height:100px;
 }
-.post li{
-  display:inline; 
-}
-.post h2{
-  display: inline-block;
-}
-.post ul{
-  display:inline-block;
-}
-.post img{
-  display: block;
-}
-
-.post a{
-background-color: green;
-  color: black;
-  border: 1px solid black;
-  text-decoration: none;
-  padding: 10px;
-  display: inline-block;
-}
 #aboutname h1{
   font-size:50px;
 font-family:Elephant
@@ -99,4 +78,8 @@ font-family:Elephant
 }
 #aboutname{
   padding-top: 50px;
+}
+profilepic{
+    border-radius:300px;
+    height:100px;
 }
