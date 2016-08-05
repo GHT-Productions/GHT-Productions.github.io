@@ -1,0 +1,100 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  text-align:center;
+}
+
+header {
+  position: fixed;
+  display: block;
+  padding: 10px;
+  background-color: white;
+  width: 100%;
+}
+
+header li {
+  display:inline-block;
+  list-style-type:none;
+  margin: 0 30px 0 30px;
+}
+
+header li a {
+  text-decoration: none;
+  color:black;
+  font-weight: 900;
+  letter-spacing: 5px;
+}
+
+#name {
+  padding-top: 100px;
+}
+#name img{
+  height:250px;
+  border-radius:300px;
+}
+#name h1 {
+  font-weight: 50;
+  font-size:75px;
+  color:black;
+  margin: 0;
+  font-family:Elephant;
+}
+
+#name h2 {
+  font-size: 40px;
+  font-family: Elephant;
+  font-weight: 400;
+  margin: 0;
+  color:black;
+}
+#name h3 {
+  font-size: 25px;
+  font-weight: 300;
+  margin: 0;
+  color:black;
+}
+section {
+  height: 1000px;
+  background-image:url('http://unsplash.com/photos/67t2GJcD5PI/download');0
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#info{
+margin-top:40px;
+}
+#subscribe img{
+margin-top:30px;
+  height:100px;
+}
+.post li{
+  display:inline; 
+}
+.post h2{
+  display: inline-block;
+}
+.post ul{
+  display:inline-block;
+}
+.post img{
+  display: block;
+}
+
+.post a{
+background-color: green;
+  color: black;
+  border: 1px solid black;
+  text-decoration: none;
+  padding: 10px;
+  display: inline-block;
+}
+#aboutname h1{
+  font-size:50px;
+font-family:Elephant
+}
+#aboutname img{
+  height:150px;
+  border-radius:300px;
+}
+#aboutname{
+  padding-top: 50px;
+}
